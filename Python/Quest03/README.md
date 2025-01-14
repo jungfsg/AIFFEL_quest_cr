@@ -60,7 +60,9 @@
 
 # 회고(참고 링크 및 코드 개선)
 ```
-# 리뷰어의 회고를 작성합니다.
-# 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
-# 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
+![image](https://github.com/user-attachments/assets/41aa2697-da5e-4bed-9a19-27e67acac7f9)
+위와 같이 return 뒤 fn(*arg, **kwargs)을 함수 안쪽으로 이동하면 원하는 결과값이 순서에 맞게 나오는 것을 알 수 있다.
+![image](https://github.com/user-attachments/assets/11df8ec0-7db5-465e-bc2a-bf55e6665aee)
+이 부분에 대해서는 fn의 정확한 역할에 대해 다시 함께 설명을 듣고 싶다.
+
 ```
