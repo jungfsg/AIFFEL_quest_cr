@@ -1,7 +1,9 @@
-# AIFFEL_quest_cr
+## AIFFEL_quest_cr
 jungfsg_Aiffel
 
-this is for aiffel studies
+'''
+This is for aiffel studies // 8 MainQuests, 4 Python Quests, 5 Flutter Quests and 7 Exploration Quests.
+'''
 
 AIFFEL_quest_cr
 ├── MainQuest
