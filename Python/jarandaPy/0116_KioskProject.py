@@ -57,7 +57,7 @@ class Kiosk:
                 else:
                     print("올바른 메뉴 번호를 다시 입력하세요")
             except:
-                print("추가 주문을 다시 진행해주세요 \n")               # 숫자를 오입력하면 else구문이, 숫자가 아닌 다른 포맷을 입력하면 except문이 실행됨됨
+                print("추가 주문을 다시 진행해주세요 \n")               # 숫자를 오입력하면 else구문이, 숫자가 아닌 다른 포맷을 입력하면 except문이 실행됨
         print()
         print("주문하신 내용은 다음과 같습니다")
         print('='*25)
@@ -67,12 +67,12 @@ class Kiosk:
 
 
     # 지불
-    def pay(self):
+    def pay(self):                                                    # 메뉴가 많아도 결제방법은 한번만 선택한다
         while True:
             try:
                 choose_pay = int(input("1(현금 지불), 2(카드 결제) 중 선택해주세요: "))
                 if choose_pay == 1:
-                    self.payment_flag += 1
+                    self.payment_flag += 1                            # flag를 증가시켜 주문서 출력시 반영하기
                     print('현금을 현금 투입구에 투입하세요 \n@주문서가 출력됩니다')
                     break
                 elif choose_pay == 2:
