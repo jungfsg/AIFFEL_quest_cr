@@ -117,7 +117,7 @@ def battle(player, monster):
                 time.sleep(0.9)
                 print('.')
                 time.sleep(1.2)
-                print('.')
+                print('☠️')
                 time.sleep(1.5)
                 print(f"{player.ID}님이 사망했습니다..")
                 time.sleep(0.6)
