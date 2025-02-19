@@ -55,7 +55,7 @@ plt.show()
 # 식당 이름에 지역 단서를 달아두면 정확한 식당을 찾아낼 가능성이 높아짐
 # API 키 설정
 '''
-gmaps = googlemaps.Client(key="AIzaSyCX6BzKLK49z5DGMc3wRiLEyYR_aqgvW2E")
+gmaps = googlemaps.Client(key="MY_API")
 
 # 각 식당 이름에 "(New York)" 추가 >> 위치 힌트
 restaurant_names = [restaurant + " (New York)" for restaurant in KR_title_list]
