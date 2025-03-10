@@ -1,8 +1,8 @@
-# AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus
 - 네이버 카페 앱
 
 
-# PRT(Peer Review Template)
+# Quest04
 -  **1. 정보구조 분석 및 설계하기**
     - ![InfoStructureAnalysis](https://github.com/user-attachments/assets/5005e4f9-b430-4cf8-b3a2-c9b280d5ad64)
 
