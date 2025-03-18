@@ -71,7 +71,7 @@ async def guess_image(
     except Exception as e:
         return {"error": str(e)}
 
-# 다른 녀석
+# 다른 녀석? 추가..
 @app.post("/random-message")
 async def random_message(prompt: str = Form(...)):
     try:
