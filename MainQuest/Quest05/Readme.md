@@ -1,3 +1,4 @@
+### 뭔가 깃든 갤러리앱
 ### 홈 화면
 - 기존 퀘스트에서 만들었던 갤러리 앱을 좀 더 확장해서 만들어보고자 하였음
 - ![6fbf3f8a1fee752e](https://github.com/user-attachments/assets/bb64351e-8036-4b09-b808-6aa0f618c3d3)
