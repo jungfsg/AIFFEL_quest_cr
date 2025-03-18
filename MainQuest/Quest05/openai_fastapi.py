@@ -71,6 +71,32 @@ async def guess_image(
     except Exception as e:
         return {"error": str(e)}
 
+# 다른 녀석
+@app.post("/random-message")
+async def random_message(prompt: str = Form(...)):
+    try:
+        messages = [{
+            "role": "system",
+            "content": """너는 섬뜩하고 불쾌한 메시지를 생성하는 AI야. 
+            사용자가 요청하면 정말 소름끼치고 불쾌한 한 문장을 생성해줘. 
+            """
+        }, {
+            "role": "user",
+            "content": prompt
+        }]
+        
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=messages,
+            max_tokens=50,
+            temperature=1.2
+        )
+        
+        return {
+            "response": response.choices[0].message.content
+        }
+    except Exception as e:
+        return {"error": str(e)}
 
 
 
