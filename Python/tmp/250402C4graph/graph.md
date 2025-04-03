@@ -16,3 +16,7 @@
 
 - 데이터셋 변경 이후 베이스라인 그래프(드롭아웃 0.2)
 ![스크린샷 2025-04-03 141046](https://github.com/user-attachments/assets/ecdf24b3-9787-44fc-a425-41acb538f03e)
+
+- 새로운 데이터셋 가운데 blue_jellyfish의 검증 데이터셋이 비교적 많이 정제되어있다고 판단함
+- blue_jellyfish 데이터셋을 제외하고 같은 모델을 다시 학습시킨 결과 아래와 같음(2회 시도함)
+![image](https://github.com/user-attachments/assets/66bb5e41-d21a-4ef5-94e1-1e356eec6e61)
