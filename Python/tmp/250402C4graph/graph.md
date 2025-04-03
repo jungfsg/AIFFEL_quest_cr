@@ -12,3 +12,7 @@
 (같은 조건)
 ![image](https://github.com/user-attachments/assets/5bc9be92-cde5-4834-af95-d0ae46a418be)
 - 검증 데이터 개수가 너무 적어서 모니터링이 불안정한 것으로 생각됨
+
+
+- 데이터셋 변경 이후 베이스라인 그래프(드롭아웃 0.2)
+![스크린샷 2025-04-03 141046](https://github.com/user-attachments/assets/ecdf24b3-9787-44fc-a425-41acb538f03e)
