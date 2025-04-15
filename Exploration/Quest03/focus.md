@@ -4,7 +4,7 @@
 ### 1. Portrait 모드 사진 제작
 
 - 아웃포커싱이 적용된 인물 사진  
-  ![스크린샷 2025-04-14 115845](https://github.com/user-attachments/assets/ea8e082c-01a4-465c-abf9-dc22c5988ab8)
+  ![image](https://github.com/user-attachments/assets/79fd1a5f-0968-4371-88e0-1a97bf0ed8f2)
 - 아웃포커싱이 적용된 동물 사진  
   ![image](https://github.com/user-attachments/assets/4525e731-58f1-4951-963b-537544836846)
 - 고양이를 블러 처리하고 배경을 원본으로 남긴 사진  
