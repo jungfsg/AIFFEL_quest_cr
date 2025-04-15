@@ -18,11 +18,11 @@
 - 경계면의 엘리어싱 현상이 심함
 - ![image](https://github.com/user-attachments/assets/0b2df480-3b6b-4e6a-8cca-e6ca1f450bcb) ![image](https://github.com/user-attachments/assets/1d891090-5d60-4a8a-931f-829cf15884f2)
   
-- 뒤에 서있는 인물의 일부가 인식되지 않음
-  ![image](https://github.com/user-attachments/assets/672f2a63-0dbd-4e40-9da6-1f7e891947a1)
-  ![image](https://github.com/user-attachments/assets/d8ea9602-20d4-4ceb-8527-680ef682352d)
-- 배경 합성으로 다시 확인해보니..
-  ![hellosakura](https://github.com/user-attachments/assets/9140cbd8-2470-4717-b600-10bcb2452864)
+- 뒤에 서있는 인물의 일부가 인식되지 않음   
+  ![image](https://github.com/user-attachments/assets/672f2a63-0dbd-4e40-9da6-1f7e891947a1)   
+  ![image](https://github.com/user-attachments/assets/d8ea9602-20d4-4ceb-8527-680ef682352d)   
+- 배경 합성으로 다시 확인해보니..   
+  ![hellosakura](https://github.com/user-attachments/assets/9140cbd8-2470-4717-b600-10bcb2452864)   
 
 - 전반적으로 이미지의 경계면을 정확하게 분리하지 않고 물체보다 두껍게 탐지해냄(정밀하지 않음)
 
