@@ -31,4 +31,12 @@
 
 ### 5. 생성자 층 구조 변경
 - 4번 구성에 더해 생성자 모델 층 구조를 깊게 하여 밸런스를 조절해보았음
+- 큰 차이는 나타나지 않았음
+![download](https://github.com/user-attachments/assets/c34f8a55-24f6-4d5f-834e-e6cf9b96cb9f)
+![image](https://github.com/user-attachments/assets/de3aa79d-cb88-494a-9d60-2baddc3a13fd)
+![download](https://github.com/user-attachments/assets/54311870-295c-4333-b341-245afde1e6d2)
+
+### 6. 생성자 층 심화
 - 진행중
+- 결과 비슷하면 판별자 건드려보기
+
