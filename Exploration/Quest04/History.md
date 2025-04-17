@@ -37,6 +37,13 @@
 ![download](https://github.com/user-attachments/assets/54311870-295c-4333-b341-245afde1e6d2)
 
 ### 6. 생성자 층 심화
+- 생성자 층 구조를 더 깊게 작성하여 학습 진행
+![download](https://github.com/user-attachments/assets/5a5d0808-ef57-4325-a2c7-49a2c78224a4)
+![cifar](https://github.com/user-attachments/assets/4b7cc0ab-b029-45a7-8d1a-581c186a01b9)
+![download](https://github.com/user-attachments/assets/2d2b0cd1-601f-49ce-94a8-2c3dda5ed591)
+
+### 7. 판별자 손실함수에 레이블 스무딩(Label Smoothing) 적용
+- 실제 값에 대해 1.0만큼 확신 >> 0.8만큼 확신하도록 조정
+- 판별자 모델의 과도한 자신감을 낮추고 생성자 모델에게 숨 쉴 틈을 제공
 - 진행중
-- 결과 비슷하면 판별자 건드려보기
 
