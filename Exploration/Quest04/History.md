@@ -25,4 +25,10 @@
 
 ### 4. Adam(1e-4), epoch 50, discriminator에서 activation = Sigmoid, dropout = 0.5
 - 3번 결과를 바탕으로 재구성하여 시도함
+![download](https://github.com/user-attachments/assets/25611374-3fd7-42bd-93fd-6f41769de291)
+![cifar](https://github.com/user-attachments/assets/90274cbf-5c62-4a20-9e9d-f85a3551d6d2)
+![download](https://github.com/user-attachments/assets/3ce31601-0e56-4156-924d-e958cf7a8f50)
+
+### 5. 생성자 층 구조 변경
+- 4번 구성에 더해 생성자 모델 층 구조를 깊게 하여 밸런스를 조절해보았음
 - 진행중
