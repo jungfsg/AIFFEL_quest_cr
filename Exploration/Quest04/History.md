@@ -16,4 +16,7 @@
 
 ### 3. Adam(1e-4), epoch 50, discriminator 출력함수 Sigmoid 추가
 - 학습률과 에포크를 복구하고, 출력층에 출력 함수를 추가하여 재시도
-- 진행중
+- 역시 유의미하지 않았음
+![download](https://github.com/user-attachments/assets/cd627143-e066-4e93-88a9-07e0c0fe12bb)
+![cifar](https://github.com/user-attachments/assets/2403f090-09b8-4701-91dc-f20a79f13886)
+![download](https://github.com/user-attachments/assets/8d8a5ba2-8288-408d-a6f6-77b976493dcf)
