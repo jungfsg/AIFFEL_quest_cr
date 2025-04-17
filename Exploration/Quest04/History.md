@@ -16,7 +16,13 @@
 
 ### 3. Adam(1e-4), epoch 50, discriminator 출력함수 Sigmoid 추가
 - 학습률과 에포크를 복구하고, 출력층에 출력 함수를 추가하여 재시도
-- 역시 유의미하지 않았음
+- 판별자 모델이 비교적 강력하여 가짜 이미지와 실제 이미지 모두를 90%에 가까운 정확도로 구분하고 있음
+- 생성자 모델 손실값이 높은 상태가 유지되어 개선되지 못하고 있음
+- 판별자의 학습률을 낮추거나 드롭아웃을 증가하는 방향으로 판별자를 너프해야 할 것으로 생각되었음
 ![download](https://github.com/user-attachments/assets/cd627143-e066-4e93-88a9-07e0c0fe12bb)
 ![cifar](https://github.com/user-attachments/assets/2403f090-09b8-4701-91dc-f20a79f13886)
 ![download](https://github.com/user-attachments/assets/8d8a5ba2-8288-408d-a6f6-77b976493dcf)
+
+### 4. Adam(1e-4), epoch 50, discriminator에서 activation = Sigmoid, dropout = 0.5
+- 3번 결과를 바탕으로 재구성하여 시도함
+- 진행중
