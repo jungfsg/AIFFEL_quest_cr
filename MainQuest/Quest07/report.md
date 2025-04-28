@@ -3,6 +3,10 @@
 1. tf.data.Dataset에 augmentation 반영하여 진행하기
 2. U-net의 개선 모델 meanIoU를 기존 U-net보다 높이기
 3. 3가지 모델의 loss 그래프, meanIoU 계산, segmentation 결과 시각화
+   
+https://github.com/jungfsg/AIFFEL_quest_cr/blob/main/MainQuest/Quest07/vgg16_unet_model.ipynb
+https://github.com/jungfsg/AIFFEL_quest_cr/blob/main/MainQuest/Quest07/ed_model.ipynb
+https://github.com/jungfsg/AIFFEL_quest_cr/blob/main/MainQuest/Quest07/unet_model.ipynb
 
 ## 1. tf.data.Dataset에 augmentation 반영
 
